@@ -1,4 +1,4 @@
-# newsify
+# Newsify
 News Website
 This is a simple news website built using HTML, CSS, and JavaScript. The website retrieves news articles from the News API to display the latest news to the users.
 
